@@ -1,2 +1,2 @@
-# custom-plugin
+# bottle-plugin
 Minecraft Spigot plugin for my server
